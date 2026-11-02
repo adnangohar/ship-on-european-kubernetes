@@ -1,0 +1,7 @@
+ankra-guestbook
+ship-on-european-kubernetes
+*.exe
+*.test
+*.out
+.env
+.DS_Store
